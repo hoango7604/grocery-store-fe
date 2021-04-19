@@ -6,7 +6,9 @@ import Image from 'next/image'
 const FirstPost = () => {
   return (
     <>
-      <Head>First Post</Head>
+      <Head>
+        <title>First Post</title>
+      </Head>
 
       <h1>First Post</h1>
 
